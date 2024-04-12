@@ -14,8 +14,8 @@ This is a list of all possible Swimmy Mineral Fish versions, and if the archive 
 | Available | Version            |
 | ------ | --------------------- |
 | ❎    | 1.0 (Initial Release) |
-| ❎    | 1.1                   |
-| ❎    | 1.1.3                 |
+| ✅    | 1.1                   |
+| ✅    | 1.1.3                 |
 | ❔     | 1.2                   |
 | ❔     | 1.3                   |
 | ❔     | 1.4                   |
